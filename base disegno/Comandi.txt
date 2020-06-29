@@ -1,0 +1,9 @@
+c : crea cerchi
++ : aumenta raggio cerchio / quadrato 1 punto
+- : diminuisci raggio cerchio / quadrato 1 punto
+r : crea quadrati dati 2 punti
+q : crea quadrato dato 1 punto
+a : Modalità automatica per cerchio e quadrato
+d : Modalità detect collisioni
+p : crea poligoni dati 4 punti
+l : crea linee
